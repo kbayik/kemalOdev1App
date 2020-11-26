@@ -10,6 +10,4 @@ If cannot founds in both, or both arraylists are empty => returns 0.
 
 [![Build Status](https://travis-ci.com/kbayik/kemalOdev1App.svg?branch=main)](https://travis-ci.com/kbayik/kemalOdev1App)
 
-After feature/xyz
-
-https://mighty-temple-34699.herokuapp.com/
+Demo site : https://mighty-temple-34699.herokuapp.com/
